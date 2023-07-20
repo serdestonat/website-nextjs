@@ -8,6 +8,7 @@ const storytell = () => {
     <>
       <Layout>
         <Head>
+          <link rel="icon" href="/hatchet.jpg" />
           <title>Storytelling</title>
         </Head>
         <div className="storytell">

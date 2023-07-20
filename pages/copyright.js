@@ -15,6 +15,7 @@ const copyright = () => {
     <>
       <Layout>
         <Head>
+          <link rel="icon" href="/hatchet.jpg" />
           <title>Copyrights</title>
         </Head>
         <div className="copyright-container">

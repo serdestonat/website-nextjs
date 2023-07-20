@@ -11,6 +11,7 @@ const location = () => {
     <>
       <Layout>
         <Head>
+          <link rel="icon" href="/hatchet.jpg" />
           <title>Location</title>
         </Head>
         <div className="main">

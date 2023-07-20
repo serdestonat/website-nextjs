@@ -16,6 +16,7 @@ const projects = () => {
       <Layout>
         <main className={workSans.className}>
           <Head>
+            <link rel="icon" href="/hatchet.jpg" />
             <title>Projects</title>
           </Head>
           <div class="container">

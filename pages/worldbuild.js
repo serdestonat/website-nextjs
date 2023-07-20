@@ -8,6 +8,7 @@ const worldbuild = () => {
     <>
       <Layout>
         <Head>
+          <link rel="icon" href="/hatchet.jpg" />
           <title>World Building</title>
         </Head>
         <div className="worldbuild">

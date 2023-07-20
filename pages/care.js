@@ -8,6 +8,7 @@ const care = () => {
     <>
       <Layout>
         <Head>
+          <link rel="icon" href="/hatchet.jpg" />
           <title>Taking Care Of Our World</title>
         </Head>
         <div className="care">

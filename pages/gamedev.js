@@ -9,6 +9,7 @@ const gamedev = () => {
     <>
       <Layout>
         <Head>
+          <link rel="icon" href="/hatchet.jpg" />
           <title>Game Development</title>
         </Head>
         <div className="gamedev">

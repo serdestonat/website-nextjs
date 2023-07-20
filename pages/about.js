@@ -8,6 +8,7 @@ const about = () => {
     <>
       <Layout>
         <Head>
+          <link rel="icon" href="/hatchet.jpg" />
           <title>About</title>
         </Head>
         <div className="about">
