@@ -58,10 +58,7 @@ const Footer = () => {
             <span> Location</span>
           </div>
         </Link>
-        <Link
-          href="https://hinterlandgames.com/contact-us"
-          className="link-footer"
-        >
+        <Link href="/contactform" className="link-footer">
           <div className="flex-container">
             <Image src="/mail.png" width={15} height={15}></Image>
             <span> E-Mail</span>
